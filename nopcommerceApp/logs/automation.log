@@ -1,0 +1,157 @@
+06/24/23 09:46:42 AM: INFO: ********** Test_003_Customer_Add **********
+06/24/23 09:46:42 AM: INFO: *************** login started *********
+06/24/23 09:46:48 AM: INFO: ************* login successfully *****************
+06/24/23 09:46:48 AM: INFO: ************** started customer add test ******************
+06/24/23 09:48:21 AM: INFO: ********** Test_003_Customer_Add **********
+06/24/23 09:48:21 AM: INFO: *************** login started *********
+06/24/23 09:48:27 AM: INFO: ************* login successfully *****************
+06/24/23 09:48:27 AM: INFO: ************** started customer add test ******************
+06/24/23 09:57:24 AM: INFO: ********** Test_003_Customer_Add **********
+06/24/23 09:57:24 AM: INFO: *************** login started *********
+06/24/23 09:57:31 AM: INFO: ************* login successfully *****************
+06/24/23 09:57:31 AM: INFO: ************** started customer add test ******************
+06/24/23 09:59:13 AM: INFO: ********** Test_003_Customer_Add **********
+06/24/23 09:59:13 AM: INFO: *************** login started *********
+06/24/23 09:59:19 AM: INFO: ************* login successfully *****************
+06/24/23 09:59:19 AM: INFO: ************** started customer add test ******************
+06/24/23 09:59:31 AM: INFO: *********** Add Customer passed***********
+06/24/23 09:59:31 AM: INFO: ************** completed customer add test ******************
+06/24/23 10:00:57 AM: INFO: ********** Test_003_Customer_Add **********
+06/24/23 10:00:57 AM: INFO: *************** login started *********
+06/24/23 10:01:02 AM: INFO: ************* login successfully *****************
+06/24/23 10:01:02 AM: INFO: ************** started customer add test ******************
+06/24/23 10:01:20 AM: INFO: *********** Add Customer passed***********
+06/24/23 10:01:20 AM: INFO: ************** completed customer add test ******************
+06/24/23 10:02:07 AM: INFO: ********** Test_003_Customer_Add **********
+06/24/23 10:02:07 AM: INFO: *************** login started *********
+06/24/23 10:02:13 AM: INFO: ************* login successfully *****************
+06/24/23 10:02:13 AM: INFO: ************** started customer add test ******************
+06/24/23 10:02:34 AM: INFO: *********** Add Customer passed***********
+06/24/23 10:02:34 AM: INFO: ************** completed customer add test ******************
+06/24/23 10:23:52 AM: INFO: ********** Test_003_Customer_Add **********
+06/24/23 10:23:52 AM: INFO: *************** login started *********
+06/24/23 10:23:57 AM: INFO: ************* login successfully *****************
+06/24/23 10:23:57 AM: INFO: ************** started customer add test ******************
+06/24/23 10:24:08 AM: INFO: *********** Add Customer passed***********
+06/24/23 10:24:08 AM: INFO: ************** completed customer add test ******************
+06/28/23 05:13:33 PM: INFO: ********** Test_003_Customer_Add **********
+06/28/23 05:13:33 PM: INFO: *************** login started *********
+06/28/23 05:13:39 PM: INFO: ************* login successfully *****************
+06/28/23 05:13:39 PM: INFO: ************** started customer add test ******************
+06/28/23 05:13:50 PM: INFO: *********** Add Customer passed***********
+06/28/23 05:13:51 PM: INFO: ************** completed customer add test ******************
+06/28/23 05:13:52 PM: INFO: ****************** Test_001_Login_Page *********************
+06/28/23 05:13:52 PM: INFO: ****************** Started home page title test *********************
+06/28/23 05:13:53 PM: INFO: ****************** Home page title test passed *********************
+06/28/23 05:13:56 PM: INFO: ****************** Started login page title test *********************
+06/28/23 05:14:01 PM: INFO: ****************** Login page title test passed *********************
+06/28/23 05:14:02 PM: INFO: ****************** Test_002_LoginPage_DDT*********************
+06/28/23 05:14:02 PM: INFO: ****************** Started login page ddt test *********************
+06/28/23 05:14:11 PM: INFO: *** passed ***
+06/28/23 05:14:11 PM: INFO: *** passed ***
+06/28/23 05:14:12 PM: INFO: *** passed ***
+06/28/23 05:14:13 PM: INFO: *** passed ***
+06/28/23 05:14:14 PM: INFO: *** passed ***
+06/28/23 05:14:14 PM: INFO: *** Login page DDT test passed ***
+06/28/23 05:14:14 PM: INFO: ****************** completed login page ddt test *********************
+06/28/23 05:20:36 PM: INFO: ********** Test_003_Customer_Add **********
+06/28/23 05:20:36 PM: INFO: *************** login started *********
+06/28/23 05:20:42 PM: INFO: ************* login successfully *****************
+06/28/23 05:20:42 PM: INFO: ************** started customer add test ******************
+06/28/23 05:20:53 PM: INFO: *********** Add Customer passed***********
+06/28/23 05:20:54 PM: INFO: ************** completed customer add test ******************
+06/28/23 05:20:55 PM: INFO: ****************** Test_001_Login_Page *********************
+06/28/23 05:20:55 PM: INFO: ****************** Started home page title test *********************
+06/28/23 05:20:57 PM: INFO: ****************** Home page title test passed *********************
+06/28/23 05:21:00 PM: INFO: ****************** Started login page title test *********************
+06/28/23 05:21:03 PM: INFO: ****************** Login page title test passed *********************
+06/28/23 05:21:04 PM: INFO: ****************** Test_002_LoginPage_DDT*********************
+06/28/23 05:21:04 PM: INFO: ****************** Started login page ddt test *********************
+06/28/23 05:21:12 PM: INFO: *** passed ***
+06/28/23 05:21:13 PM: INFO: *** passed ***
+06/28/23 05:21:13 PM: INFO: *** passed ***
+06/28/23 05:21:14 PM: INFO: *** passed ***
+06/28/23 05:21:15 PM: INFO: *** passed ***
+06/28/23 05:21:15 PM: INFO: *** Login page DDT test passed ***
+06/28/23 05:21:15 PM: INFO: ****************** completed login page ddt test *********************
+06/28/23 05:24:36 PM: INFO: ********** Test_003_Customer_Add **********
+06/28/23 05:24:36 PM: INFO: *************** login started *********
+06/28/23 05:24:42 PM: INFO: ************* login successfully *****************
+06/28/23 05:24:42 PM: INFO: ************** started customer add test ******************
+06/28/23 05:24:47 PM: INFO: ****************** Test_001_Login_Page *********************
+06/28/23 05:24:47 PM: INFO: ****************** Started home page title test *********************
+06/28/23 05:24:48 PM: INFO: ****************** Home page title test passed *********************
+06/28/23 05:24:54 PM: INFO: ****************** Started login page title test *********************
+06/28/23 05:25:00 PM: INFO: ****************** Login page title test passed *********************
+06/28/23 05:25:03 PM: INFO: ****************** Test_002_LoginPage_DDT*********************
+06/28/23 05:25:03 PM: INFO: ****************** Started login page ddt test *********************
+06/28/23 05:25:35 PM: INFO: ********** Test_003_Customer_Add **********
+06/28/23 05:25:35 PM: INFO: *************** login started *********
+06/28/23 05:25:41 PM: INFO: ************* login successfully *****************
+06/28/23 05:25:41 PM: INFO: ************** started customer add test ******************
+06/28/23 05:25:52 PM: INFO: *********** Add Customer passed***********
+06/28/23 05:25:53 PM: INFO: ************** completed customer add test ******************
+06/28/23 05:25:54 PM: INFO: ****************** Test_001_Login_Page *********************
+06/28/23 05:25:54 PM: INFO: ****************** Started home page title test *********************
+06/28/23 05:25:56 PM: INFO: ****************** Home page title test passed *********************
+06/28/23 05:25:59 PM: INFO: ****************** Started login page title test *********************
+06/28/23 05:26:05 PM: INFO: ****************** Login page title test passed *********************
+06/28/23 05:26:06 PM: INFO: ****************** Test_002_LoginPage_DDT*********************
+06/28/23 05:26:06 PM: INFO: ****************** Started login page ddt test *********************
+06/28/23 05:26:14 PM: INFO: *** passed ***
+06/28/23 05:26:14 PM: INFO: *** passed ***
+06/28/23 05:26:15 PM: INFO: *** passed ***
+06/28/23 05:26:16 PM: INFO: *** passed ***
+06/28/23 05:26:17 PM: INFO: *** passed ***
+06/28/23 05:26:17 PM: INFO: *** Login page DDT test passed ***
+06/28/23 05:26:17 PM: INFO: ****************** completed login page ddt test *********************
+07/07/23 10:53:55 AM: INFO: ********** Test_003_Customer_Add **********
+07/07/23 10:53:55 AM: INFO: *************** login started *********
+07/07/23 10:54:00 AM: INFO: ************* login successfully *****************
+07/07/23 10:54:00 AM: INFO: ************** started customer add test ******************
+07/07/23 10:54:11 AM: INFO: *********** Add Customer passed***********
+07/07/23 10:54:17 AM: INFO: ************** completed customer add test ******************
+07/07/23 10:54:18 AM: INFO: ****************** Test_001_Login_Page *********************
+07/07/23 10:54:18 AM: INFO: ****************** Started home page title test *********************
+07/07/23 10:54:21 AM: INFO: ****************** Home page title test passed *********************
+07/07/23 10:54:23 AM: INFO: ****************** Started login page title test *********************
+07/07/23 10:54:27 AM: INFO: ****************** Login page title test passed *********************
+07/07/23 10:54:28 AM: INFO: ****************** Test_002_LoginPage_DDT*********************
+07/07/23 10:54:28 AM: INFO: ****************** Started login page ddt test *********************
+07/07/23 10:54:35 AM: INFO: *** passed ***
+07/07/23 10:54:36 AM: INFO: *** passed ***
+07/07/23 10:54:36 AM: INFO: *** passed ***
+07/07/23 10:54:37 AM: INFO: *** passed ***
+07/07/23 10:54:38 AM: INFO: *** passed ***
+07/07/23 10:54:38 AM: INFO: *** Login page DDT test passed ***
+07/07/23 10:54:38 AM: INFO: ****************** completed login page ddt test *********************
+07/07/23 10:57:10 AM: INFO: ********** Test_003_Customer_Add **********
+07/07/23 10:57:10 AM: INFO: *************** login started *********
+07/07/23 10:57:12 AM: INFO: ************* login successfully *****************
+07/07/23 10:57:12 AM: INFO: ************** started customer add test ******************
+07/07/23 10:57:14 AM: INFO: ****************** Test_001_Login_Page *********************
+07/07/23 10:57:14 AM: INFO: ****************** Started home page title test *********************
+07/07/23 10:57:18 AM: INFO: ****************** Home page title test passed *********************
+07/07/23 10:57:20 AM: INFO: ****************** Started login page title test *********************
+07/07/23 10:57:22 AM: INFO: ****************** Test_002_LoginPage_DDT*********************
+07/07/23 10:57:22 AM: INFO: ****************** Started login page ddt test *********************
+07/07/23 11:14:49 AM: INFO: ********** Test_003_Customer_Add **********
+07/07/23 11:14:49 AM: INFO: *************** login started *********
+07/07/23 11:14:54 AM: INFO: ************* login successfully *****************
+07/07/23 11:14:54 AM: INFO: ************** started customer add test ******************
+07/07/23 11:15:05 AM: INFO: *********** Add Customer passed***********
+07/07/23 11:15:06 AM: INFO: ************** completed customer add test ******************
+07/07/23 11:15:07 AM: INFO: ****************** Test_001_Login_Page *********************
+07/07/23 11:15:07 AM: INFO: ****************** Started home page title test *********************
+07/07/23 11:15:10 AM: INFO: ****************** Home page title test passed *********************
+07/07/23 11:15:13 AM: INFO: ****************** Started login page title test *********************
+07/07/23 11:15:20 AM: INFO: ****************** Login page title test passed *********************
+07/07/23 11:15:21 AM: INFO: ****************** Test_002_LoginPage_DDT*********************
+07/07/23 11:15:21 AM: INFO: ****************** Started login page ddt test *********************
+07/07/23 11:15:27 AM: INFO: *** passed ***
+07/07/23 11:15:27 AM: INFO: *** passed ***
+07/07/23 11:15:28 AM: INFO: *** passed ***
+07/07/23 11:15:29 AM: INFO: *** passed ***
+07/07/23 11:15:29 AM: INFO: *** passed ***
+07/07/23 11:15:32 AM: INFO: *** Login page DDT test passed ***
+07/07/23 11:15:32 AM: INFO: ****************** completed login page ddt test *********************
