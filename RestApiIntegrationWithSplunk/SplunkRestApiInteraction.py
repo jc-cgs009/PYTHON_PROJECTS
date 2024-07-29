@@ -3,7 +3,7 @@ import time
 
 search_id = 'sid0001'
 user_name = 'Suhas_j_c'
-password = 'SjcSplunkCgs@999'
+password = '*************'
 
 
 search_query = '''search index = main sourcetype="access_combined_wcookie"
