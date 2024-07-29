@@ -19,7 +19,7 @@ from database.database_operations import DatabaseOperations
 class EnterAttendance:
     base_url = "https://app.keka.com/Account/Login"
     email = "schandra@msystechnologies.com"
-    password = "SjcKekaCgs@999"
+    password = "***********"
     emp_id_text_file_path = "D:\\PythonProject\\AttendenceEntry\\employeeData\\empid.txt"
     # captcha_img_file_path = "D:\\PythonProject\\AttendenceEntry\\captchaIMG\\captcha_img.png"
     # date = str(get_todays_date.get_today_date())

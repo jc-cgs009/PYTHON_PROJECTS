@@ -36,7 +36,7 @@ while is_search_completed != 'DONE':
 
     is_search_completed = search_status_res_data.get('entry', [])[0].get('content', {}).get('dispatchState')
 
-    print("current search status is : {}".format(is_search_completed))
+print("current search status is : {}".format(is_search_completed))
 
 
 get_search_result_url = r"https://localhost:8089/services/search/jobs/{}/results/".format(search_id)
